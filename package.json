@@ -1,0 +1,24 @@
+{
+  "name": "node-blog",
+  "version": "1.0.0",
+  "description": "Using Node to create a simple blog.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdhunter3141/node-blog.git"
+  },
+  "author": "Bryan Hunter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdhunter3141/node-blog/issues"
+  },
+  "homepage": "https://github.com/bdhunter3141/node-blog#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.4"
+  }
+}
